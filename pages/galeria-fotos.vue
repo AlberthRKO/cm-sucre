@@ -1,5 +1,5 @@
 <template>
-  <Head><Title>Concejo Municipal - Fotos</Title></Head>
+  <Head><Title>Fotos - Concejo Municipal de Sucre</Title></Head>
   <main id="main">
     <!-- ======= Breadcrumbs ======= -->
     <div class="breadcrumbs">
@@ -24,7 +24,7 @@
       <nav>
         <div class="container">
           <ol>
-            <li><NuxtLink to="/">Home</NuxtLink></li>
+            <li><NuxtLink to="/">Inicio</NuxtLink></li>
             <li>Galeria - Fotos</li>
           </ol>
         </div>
@@ -151,5 +151,10 @@
   </main>
 </template>
 <script>
-export default {};
+export default {
+  beforeRouteLeave(to, from, next) {
+    window.scrollTo(0, 0); // Vuelve al inicio de la página antes de salir de la página de inicio
+    next();
+  },
+};
 </script>

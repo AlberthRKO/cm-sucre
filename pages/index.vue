@@ -1,6 +1,6 @@
 <template>
   <Head>
-    <Title>Concejo Municipal</Title>
+    <Title>Concejo Municipal de Sucre</Title>
   </Head>
   <section id="hero" class="hero about d-flex align-items-center">
     <div class="container">
@@ -64,7 +64,7 @@
         </div> -->
       </div>
     </div>
-    <img src="/img/header_4_wave.png" alt="" class="wave" />
+    <img src="/img/header_4_wave6.png" alt="" class="wave" />
   </section>
   <!-- End Hero Section -->
   <main id="main">
@@ -99,7 +99,7 @@
                       </div>
                     </div>
                   </div>
-                  <div class="block-social-info">
+                  <div class="block-social-info d-none">
                     <ul class="list-inline p-0 m-0 music-play-lists">
                       <li class="share">
                         <span><i class="fas fa-share"></i></span>
@@ -169,7 +169,7 @@
                       </div>
                     </div>
                   </div>
-                  <div class="block-social-info">
+                  <div class="block-social-info d-none">
                     <ul class="list-inline p-0 m-0 music-play-lists">
                       <li class="share">
                         <span><i class="fas fa-share"></i></span>
@@ -239,7 +239,7 @@
                       </div>
                     </div>
                   </div>
-                  <div class="block-social-info">
+                  <div class="block-social-info d-none">
                     <ul class="list-inline p-0 m-0 music-play-lists">
                       <li class="share">
                         <span><i class="fas fa-share"></i></span>
@@ -309,7 +309,7 @@
                       </div>
                     </div>
                   </div>
-                  <div class="block-social-info">
+                  <div class="block-social-info d-none">
                     <ul class="list-inline p-0 m-0 music-play-lists">
                       <li class="share">
                         <span><i class="fas fa-share"></i></span>
@@ -379,7 +379,7 @@
                       </div>
                     </div>
                   </div>
-                  <div class="block-social-info">
+                  <div class="block-social-info d-none">
                     <ul class="list-inline p-0 m-0 music-play-lists">
                       <li class="share">
                         <span><i class="fas fa-share"></i></span>
@@ -449,7 +449,7 @@
                       </div>
                     </div>
                   </div>
-                  <div class="block-social-info">
+                  <div class="block-social-info d-none">
                     <ul class="list-inline p-0 m-0 music-play-lists">
                       <li class="share">
                         <span><i class="fas fa-share"></i></span>
@@ -498,7 +498,7 @@
         </div>
 
         <div class="d-flex justify-content-center py-4">
-          <NuxtLink to="/service" class="btn btn-primary"
+          <NuxtLink to="/transmisiones" :offset="false" class="btn btn-primary"
             >Ver todo <i class="fas fa-arrow-right"></i
           ></NuxtLink>
         </div>
@@ -619,7 +619,9 @@
                       sed do eiusmod tempor incididunt ut labore et dolore magna
                       aliqua.
                     </p>
-                    <a href="#" class="buy-btn">Saber más</a>
+                    <NuxtLink to="/detail" class="btn btn-primary"
+                      >Saber Más <i class="fas fa-paper-plane"></i
+                    ></NuxtLink>
                   </div>
                 </div>
                 <!-- Features Item -->
@@ -645,7 +647,9 @@
                       sed do eiusmod tempor incididunt ut labore et dolore magna
                       aliqua.
                     </p>
-                    <a href="#" class="buy-btn">Saber más</a>
+                    <NuxtLink to="/detail" class="btn btn-primary"
+                      >Saber Más <i class="fas fa-paper-plane"></i
+                    ></NuxtLink>
                   </div>
                 </div>
                 <!-- Features Item -->
@@ -671,7 +675,9 @@
                       sed do eiusmod tempor incididunt ut labore et dolore magna
                       aliqua.
                     </p>
-                    <a href="#" class="buy-btn">Saber más</a>
+                    <NuxtLink to="/detail" class="btn btn-primary"
+                      >Saber Más <i class="fas fa-paper-plane"></i
+                    ></NuxtLink>
                   </div>
                 </div>
                 <!-- Features Item -->
@@ -697,7 +703,9 @@
                       sed do eiusmod tempor incididunt ut labore et dolore magna
                       aliqua.
                     </p>
-                    <a href="#" class="buy-btn">Saber más</a>
+                    <NuxtLink to="/detail" class="btn btn-primary"
+                      >Saber Más <i class="fas fa-paper-plane"></i
+                    ></NuxtLink>
                   </div>
                 </div>
                 <!-- Features Item -->
@@ -936,7 +944,7 @@
 
 <script>
 useHead({
-  title: "My App",
+  title: "Concejo Municipal de Sucre",
   meta: [{ name: "description", content: "My amazing site." }],
   bodyAttrs: {
     class: "test",
@@ -947,6 +955,11 @@ useHead({
 import Swiper from "swiper/bundle";
 
 export default {
+  beforeRouteLeave(to, from, next) {
+    window.scrollTo(0, 0); // Vuelve al inicio de la página antes de salir de la página de inicio
+    next();
+  },
+
   data() {
     return {
       altText: "Descripción de la imagen",

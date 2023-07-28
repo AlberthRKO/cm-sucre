@@ -1,5 +1,5 @@
 <template>
-  <Head><Title>Concejo Municipal - Transmisiones</Title></Head>
+  <Head><Title>Transmisiones - Concejo Municipal de Sucre</Title></Head>
   <main id="main">
     <!-- ======= Breadcrumbs ======= -->
     <div class="breadcrumbs">
@@ -24,7 +24,7 @@
       <nav>
         <div class="container">
           <ol>
-            <li><NuxtLink to="/">Home</NuxtLink></li>
+            <li><NuxtLink to="/">Inicio</NuxtLink></li>
             <li>Transmisiones</li>
           </ol>
         </div>
@@ -66,7 +66,7 @@
                     </div>
                   </div>
                 </div>
-                <div class="block-social-info">
+                <div class="block-social-info d-none">
                   <ul class="list-inline p-0 m-0 music-play-lists">
                     <li class="share">
                       <span><i class="fas fa-share"></i></span>
@@ -138,7 +138,7 @@
                     </div>
                   </div>
                 </div>
-                <div class="block-social-info">
+                <div class="block-social-info d-none">
                   <ul class="list-inline p-0 m-0 music-play-lists">
                     <li class="share">
                       <span><i class="fas fa-share"></i></span>
@@ -210,7 +210,7 @@
                     </div>
                   </div>
                 </div>
-                <div class="block-social-info">
+                <div class="block-social-info d-none">
                   <ul class="list-inline p-0 m-0 music-play-lists">
                     <li class="share">
                       <span><i class="fas fa-share"></i></span>
@@ -282,7 +282,7 @@
                     </div>
                   </div>
                 </div>
-                <div class="block-social-info">
+                <div class="block-social-info d-none">
                   <ul class="list-inline p-0 m-0 music-play-lists">
                     <li class="share">
                       <span><i class="fas fa-share"></i></span>
@@ -354,7 +354,7 @@
                     </div>
                   </div>
                 </div>
-                <div class="block-social-info">
+                <div class="block-social-info d-none">
                   <ul class="list-inline p-0 m-0 music-play-lists">
                     <li class="share">
                       <span><i class="fas fa-share"></i></span>
@@ -426,7 +426,7 @@
                     </div>
                   </div>
                 </div>
-                <div class="block-social-info">
+                <div class="block-social-info d-none">
                   <ul class="list-inline p-0 m-0 music-play-lists">
                     <li class="share">
                       <span><i class="fas fa-share"></i></span>
@@ -498,7 +498,7 @@
                     </div>
                   </div>
                 </div>
-                <div class="block-social-info">
+                <div class="block-social-info d-none">
                   <ul class="list-inline p-0 m-0 music-play-lists">
                     <li class="share">
                       <span><i class="fas fa-share"></i></span>
@@ -570,7 +570,7 @@
                     </div>
                   </div>
                 </div>
-                <div class="block-social-info">
+                <div class="block-social-info d-none">
                   <ul class="list-inline p-0 m-0 music-play-lists">
                     <li class="share">
                       <span><i class="fas fa-share"></i></span>
@@ -622,5 +622,10 @@
   </main>
 </template>
 <script>
-export default {};
+export default {
+  beforeRouteLeave(to, from, next) {
+    window.scrollTo(0, 0); // Vuelve al inicio de la página antes de salir de la página de inicio
+    next();
+  },
+};
 </script>

@@ -1,5 +1,5 @@
 <template>
-  <Head><Title>Noticias - Concejo Municial de Sucre</Title></Head>
+  <Head><Title>Sabia Usted - Concejo Municial de Sucre</Title></Head>
   <main id="main">
     <!-- ======= Breadcrumbs ======= -->
     <div class="breadcrumbs">
@@ -10,7 +10,7 @@
         <div class="container position-relative">
           <div class="row d-flex justify-content-center">
             <div class="col-lg-6 text-center">
-              <h2>Noticias</h2>
+              <h2>Sabia Usted</h2>
               <p>
                 Odio et unde deleniti. Deserunt numquam exercitationem. Officiis
                 quo odio sint voluptas consequatur ut a odio voluptatem. Sit
@@ -25,7 +25,7 @@
         <div class="container">
           <ol>
             <li><NuxtLink to="/">Inicio</NuxtLink></li>
-            <li>Noticias</li>
+            <li>Sabia Usted</li>
           </ol>
         </div>
       </nav>
@@ -34,8 +34,8 @@
     <section id="about" class="pricing bg-white">
       <div class="container" data-aos="fade-up">
         <div class="section-header">
-          <span>Noticias</span>
-          <h2>Todas las <b>Noticias</b></h2>
+          <span>Sabia Usted</span>
+          <h2>Sabia <b>Usted</b></h2>
         </div>
 
         <div class="row">
@@ -44,16 +44,16 @@
               <div class="row">
                 <div class="col-md-5">
                   <img
-                    src="/img/noticia2.jpg"
+                    src="/img/quote-bg.jpg"
                     class="img-fluid cover-image"
                     alt="Imagen"
                   />
                 </div>
                 <div class="col-md-7">
                   <span class="badge badge-primary bg-danger mb-2"
-                    >Noticia</span
+                    >Alertas</span
                   >
-                  <h3>Nombre de la noticia</h3>
+                  <h3>Titulo de la Temática</h3>
                   <p class="fst-italic">
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
                     do eiusmod tempor incididunt ut labore et dolore magna
@@ -72,16 +72,16 @@
               <div class="row">
                 <div class="col-md-5">
                   <img
-                    src="/img/noticia1.jpg"
+                    src="/img/warehousing-service.jpg"
                     class="img-fluid cover-image"
                     alt="Imagen"
                   />
                 </div>
                 <div class="col-md-7">
-                  <span class="badge badge-primary bg-danger mb-2"
-                    >Noticia</span
+                  <span class="badge badge-secondary bg-danger mb-2"
+                    >Seguridad</span
                   >
-                  <h3>Nombre de la noticia</h3>
+                  <h3>Titulo de la Temática</h3>
                   <p class="fst-italic">
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
                     do eiusmod tempor incididunt ut labore et dolore magna
@@ -100,16 +100,16 @@
               <div class="row">
                 <div class="col-md-5">
                   <img
-                    src="/img/noticia1.jpg"
+                    src="/img/trucking-service.jpg"
                     class="img-fluid cover-image"
                     alt="Imagen"
                   />
                 </div>
                 <div class="col-md-7">
-                  <span class="badge badge-primary bg-danger mb-2"
-                    >Noticia</span
+                  <span class="badge badge-info bg-danger mb-2"
+                    >Transporte</span
                   >
-                  <h3>Nombre de la noticia</h3>
+                  <h3>Titulo de la Temática</h3>
                   <p class="fst-italic">
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
                     do eiusmod tempor incididunt ut labore et dolore magna
@@ -128,16 +128,16 @@
               <div class="row">
                 <div class="col-md-5">
                   <img
-                    src="/img/noticia2.jpg"
+                    src="/img/testimonials-bg.jpg"
                     class="img-fluid cover-image"
                     alt="Imagen"
                   />
                 </div>
                 <div class="col-md-7">
-                  <span class="badge badge-primary bg-danger mb-2"
-                    >Noticia</span
+                  <span class="badge badge-warning bg-danger mb-2"
+                    >Reporte</span
                   >
-                  <h3>Nombre de la noticia</h3>
+                  <h3>Titulo de la Temática</h3>
                   <p class="fst-italic">
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
                     do eiusmod tempor incididunt ut labore et dolore magna

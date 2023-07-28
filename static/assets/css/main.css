@@ -374,7 +374,7 @@ section {
 }
 
 .header.sticked {
-  background: rgba(255, 255, 255, 0.9);
+  background: rgba(255, 255, 255, 1);
   padding: 15px 0;
   box-shadow: 0px 2px 20px rgba(14, 29, 52, 0.1);
 }
@@ -1234,21 +1234,23 @@ section {
 # Testimonials Section
 --------------------------------------------------------------*/
 .testimonials {
-  padding: 80px 0;
-  background: url("../img/testimonials-bg.jpg") no-repeat;
+  /* padding: 80px 0; */
+  /* background: url("../img/testimonials-bg.jpg") no-repeat;
   background-position: center center;
-  background-size: cover;
+  background-size: cover; */
+  background-color: #fff !important;
   position: relative;
 }
 .coleccion {
-  padding: 80px 0;
-  background: url("../img/testimonials-bg.jpg") no-repeat;
+  /* padding: 80px 0; */
+  /*   background: url("../img/testimonials-bg.jpg") no-repeat;
   background-position: center center;
-  background-size: cover;
+  background-size: cover; */
+  background-color: #fff !important;
   position: relative;
 }
 
-.testimonials::before {
+/* .testimonials::before {
   content: "";
   position: absolute;
   inset: 0;
@@ -1260,7 +1262,7 @@ section {
   position: absolute;
   inset: 0;
   background: rgba(38, 39, 41, 0.7);
-}
+} */
 
 .testimonials .section-header {
   margin-bottom: 40px;
@@ -1331,20 +1333,23 @@ section {
   margin: 0 auto 15px auto;
 }
 
-.testimonials .swiper-pagination {
+.testimonials .swiper-pagination,
+.testimonials .swiper-pagination2 {
   margin-top: 20px;
   position: relative;
 }
 
-.testimonials .swiper-pagination .swiper-pagination-bullet {
+.testimonials .swiper-pagination .swiper-pagination-bullet,
+.testimonials .swiper-pagination2 .swiper-pagination-bullet {
   width: 12px;
   height: 12px;
-  background-color: rgba(255, 255, 255, 0.4);
+  background-color: var(--color-primary);
   opacity: 0.5;
 }
 
-.testimonials .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #fff;
+.testimonials .swiper-pagination .swiper-pagination-bullet-active,
+.testimonials .swiper-pagination2 .swiper-pagination-bullet-active {
+  background-color: var(--color-primary);
   opacity: 1;
 }
 
@@ -1352,6 +1357,10 @@ section {
   .testimonials .testimonial-item p {
     width: 80%;
   }
+}
+
+b {
+  color: var(--color-primary) !important;
 }
 
 /*--------------------------------------------------------------
@@ -1398,12 +1407,19 @@ section {
 # Our Team Section
 --------------------------------------------------------------*/
 .team .member {
+  transition: all 0.3s ease;
   text-align: center;
   margin-bottom: 20px;
   background: #fff;
-  /* border: 1px solid rgba(14, 29, 52, 0.15); */
+  /* border: 1px solid rgba(14, 29, 52, 0.5); */
   border: none;
+  box-shadow: 0 10px 13px -7px rgba(0, 0, 0, 0.1);
   border-radius: 10px !important;
+}
+.team .member:hover {
+  transform: translateY(-10px);
+  border-bottom: 1px solid var(--color-primary);
+  box-shadow: 0 10px 13px -7px rgba(220, 53, 69, 0.3);
 }
 
 .team .member img {
@@ -1958,9 +1974,12 @@ section {
   transform: scale(20);
 }
 /* Seccion de boton stream */
+.hover-buttons {
+  position: relative;
+}
 .hover-buttons .play-btn {
-  width: 50px;
-  height: 50px;
+  width: 70px;
+  height: 70px;
   background: radial-gradient(
     var(--color-primary) 50%,
     rgba(255, 13, 25, 0.4) 52%
@@ -1968,7 +1987,7 @@ section {
   border-radius: 50%;
   display: block;
   position: relative;
-  left: 0;
+  left: 0%;
   top: -15%;
   overflow: hidden;
 }
@@ -1976,8 +1995,8 @@ section {
 .hover-buttons .play-btn:before {
   content: "";
   position: absolute;
-  width: 70px;
-  height: 70px;
+  width: 90px;
+  height: 90px;
   animation-delay: 0s;
   animation: pulsate-btn 2s;
   animation-direction: forwards;
@@ -2391,19 +2410,22 @@ section {
 
 .block-description {
   position: absolute;
-  left: 1.563em;
+  /* left: 1.563em; */
+  width: 100%;
+  height: 100%;
   top: 0;
   bottom: 0;
   z-index: 999;
   display: flex;
   justify-content: center;
+  align-items: center;
   flex-direction: column;
 }
 .detail-description::before {
   content: "";
-  left: -10%;
-  top: 50%;
-  width: 120%;
+  left: 5%;
+  top: 55%;
+  width: 80%;
   height: 55px;
   position: absolute;
   background-color: var(--color-default);
@@ -2445,7 +2467,7 @@ section {
   background-color: var(--color-primary);
   border-color: var(--color-primary);
 }
-.block-social-info {
+.block-social-info d-none {
   position: absolute;
   top: 0;
   left: auto;
@@ -2456,7 +2478,7 @@ section {
   align-items: center;
   opacity: 0;
 }
-.slide-item:hover .block-social-info {
+.slide-item:hover .block-social-info d-none {
   animation: fadeIn 0.6s ease-in-out;
   opacity: 1;
 }
@@ -2487,7 +2509,7 @@ section {
   }
 }
 
-.block-social-info .music-play-lists li {
+.block-social-info d-none .music-play-lists li {
   width: 2.5em;
   height: 2.5em;
 }

@@ -1,11 +1,11 @@
 <template>
-  <Head><Title>Concejo Municipal - Misión y Visión</Title></Head>
+  <Head><Title>Misión y Visión - Concejo Municipal de Sucre</Title></Head>
   <main id="main">
     <!-- ======= Breadcrumbs ======= -->
     <div class="breadcrumbs">
       <div
         class="page-header d-flex align-items-center"
-        style="background-image: url('/img/page-header.jpg')"
+        style="background-image: url('/img/about.jpg')"
       >
         <div class="container position-relative">
           <div class="row d-flex justify-content-center">
@@ -24,7 +24,7 @@
       <nav>
         <div class="container">
           <ol>
-            <li><NuxtLink to="/">Home</NuxtLink></li>
+            <li><NuxtLink to="/">Inicio</NuxtLink></li>
             <li>Misión y Visión</li>
           </ol>
         </div>
@@ -146,6 +146,10 @@
 import Swiper from "swiper/bundle";
 
 export default {
+  beforeRouteLeave(to, from, next) {
+    window.scrollTo(0, 0); // Vuelve al inicio de la página antes de salir de la página de inicio
+    next();
+  },
   mounted() {
     new Swiper(".slides-1", {
       slidesPerView: 1, // Mostrar 3 slides en pantalla grande

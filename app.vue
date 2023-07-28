@@ -20,7 +20,7 @@
         <ul>
           <li>
             <NuxtLink to="/" exact :class="{ active: isLinkActive('/') }"
-              >Home</NuxtLink
+              >Inicio</NuxtLink
             >
           </li>
           <li class="dropdown">
@@ -142,7 +142,7 @@
 
   <!-- ======= Footer ======= -->
   <div class="contenedor-wave overflow-hidden">
-    <img src="/img/footer_4_wave.png" alt="" class="wave" />
+    <img src="/img/footer.png" alt="" class="wave" />
   </div>
   <footer id="footer" class="footer bg-info">
     <div class="container">
@@ -167,7 +167,7 @@
         <div class="col-lg-2 col-6 footer-links">
           <h4>Acerca de</h4>
           <ul>
-            <li><NuxtLink to="/" href="#">Home</NuxtLink></li>
+            <li><NuxtLink to="/" href="#">Inicio</NuxtLink></li>
             <li><NuxtLink to="/about" href="#">Misión y Visión</NuxtLink></li>
             <li>
               <NuxtLink to="/transmisiones" href="#">Transmisiones</NuxtLink>
@@ -180,7 +180,7 @@
         <div class="col-lg-2 col-6 footer-links">
           <h4>Nuestros Servicios</h4>
           <ul>
-            <li><NuxtLink to="/" href="#">Home</NuxtLink></li>
+            <li><NuxtLink to="/" href="#">Inicio</NuxtLink></li>
             <li><NuxtLink to="/about" href="#">Misión y Visión</NuxtLink></li>
             <li>
               <NuxtLink to="/transmisiones" href="#">Transmisiones</NuxtLink>

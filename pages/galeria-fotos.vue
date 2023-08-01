@@ -11,12 +11,6 @@
           <div class="row d-flex justify-content-center">
             <div class="col-lg-6 text-center">
               <h2>Galeria - Fotos</h2>
-              <p>
-                Odio et unde deleniti. Deserunt numquam exercitationem. Officiis
-                quo odio sint voluptas consequatur ut a odio voluptatem. Sit
-                dolorum debitis veritatis natus dolores. Quasi ratione sint. Sit
-                quaerat ipsum dolorem.
-              </p>
             </div>
           </div>
         </div>
@@ -31,7 +25,7 @@
       </nav>
     </div>
     <!-- End Breadcrumbs -->
-    <section id="about" class="pricing bg-white">
+    <section id="about" class="pricing bg-white d-none">
       <div class="container" data-aos="fade-up">
         <div class="section-header">
           <span>Galeria - Fotos</span>
@@ -148,6 +142,249 @@
       </div>
     </section>
     <!-- End About Us Section -->
+
+    }<!-- ======= Portfolio Section ======= -->
+    <section id="portfolio" class="portfolio section-bg">
+      <div class="container" data-aos="fade-up">
+        <div class="section-header">
+          <span>Galeria - Fotos</span>
+          <h2>Todas las <b>Fotos</b></h2>
+        </div>
+
+        <div
+          class="row portfolio-container"
+          data-aos="fade-up"
+          data-aos-delay="200"
+        >
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="/img/fotos/img2.jpg" class="img-fluid" alt="" />
+              <div class="portfolio-info">
+                <h4>Titulo <b>Foto</b></h4>
+                <p>Detalle de la foto</p>
+                <div class="portfolio-links">
+                  <a
+                    href="/img/fotos/img2.jpg"
+                    data-gallery="portfolioGallery"
+                    class="portfolio-lightbox"
+                    title="Preview de la Foto"
+                    ><i class="fa fa-plus"></i
+                  ></a>
+                  <NuxtLink
+                    to="/detail"
+                    class="portfolio-details-lightbox"
+                    data-glightbox="type: external"
+                    title="Link al detalle de la Foto"
+                    ><i class="fas fa-link"></i
+                  ></NuxtLink>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="/img/fotos/img3.jpeg" class="img-fluid" alt="" />
+              <div class="portfolio-info">
+                <h4>Titulo <b>Foto</b></h4>
+                <p>Detalle de la foto</p>
+                <div class="portfolio-links">
+                  <a
+                    href="/img/fotos/img3.jpeg"
+                    data-gallery="portfolioGallery"
+                    class="portfolio-lightbox"
+                    title="Preview de la Foto"
+                    ><i class="fa fa-plus"></i
+                  ></a>
+                  <NuxtLink
+                    to="/detail"
+                    class="portfolio-details-lightbox"
+                    data-glightbox="type: external"
+                    title="Link al detalle de la Foto"
+                    ><i class="fas fa-link"></i
+                  ></NuxtLink>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="/img/fotos/img4.jpg" class="img-fluid" alt="" />
+              <div class="portfolio-info">
+                <h4>Titulo <b>Foto</b></h4>
+                <p>Detalle de la foto</p>
+                <div class="portfolio-links">
+                  <a
+                    href="/img/fotos/img4.jpg"
+                    data-gallery="portfolioGallery"
+                    class="portfolio-lightbox"
+                    title="Preview de la Foto"
+                    ><i class="fa fa-plus"></i
+                  ></a>
+                  <NuxtLink
+                    to="/detail"
+                    class="portfolio-details-lightbox"
+                    data-glightbox="type: external"
+                    title="Link al detalle de la Foto"
+                    ><i class="fas fa-link"></i
+                  ></NuxtLink>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="/img/fotos/img5.jpeg" class="img-fluid" alt="" />
+              <div class="portfolio-info">
+                <h4>Titulo <b>Foto</b></h4>
+                <p>Detalle de la foto</p>
+                <div class="portfolio-links">
+                  <a
+                    href="/img/fotos/img5.jpeg"
+                    data-gallery="portfolioGallery"
+                    class="portfolio-lightbox"
+                    title="Preview de la Foto"
+                    ><i class="fa fa-plus"></i
+                  ></a>
+                  <NuxtLink
+                    to="/detail"
+                    class="portfolio-details-lightbox"
+                    data-glightbox="type: external"
+                    title="Link al detalle de la Foto"
+                    ><i class="fas fa-link"></i
+                  ></NuxtLink>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="/img/fotos/img6.jpg" class="img-fluid" alt="" />
+              <div class="portfolio-info">
+                <h4>Titulo <b>Foto</b></h4>
+                <p>Detalle de la foto</p>
+                <div class="portfolio-links">
+                  <a
+                    href="/img/fotos/img6.jpg"
+                    data-gallery="portfolioGallery"
+                    class="portfolio-lightbox"
+                    title="Preview de la Foto"
+                    ><i class="fa fa-plus"></i
+                  ></a>
+                  <NuxtLink
+                    to="/detail"
+                    class="portfolio-details-lightbox"
+                    data-glightbox="type: external"
+                    title="Link al detalle de la Foto"
+                    ><i class="fas fa-link"></i
+                  ></NuxtLink>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="/img/fotos/img10.jpg" class="img-fluid" alt="" />
+              <div class="portfolio-info">
+                <h4>Titulo <b>Foto</b></h4>
+                <p>Detalle de la foto</p>
+                <div class="portfolio-links">
+                  <a
+                    href="/img/fotos/img10.jpg"
+                    data-gallery="portfolioGallery"
+                    class="portfolio-lightbox"
+                    title="Preview de la Foto"
+                    ><i class="fa fa-plus"></i
+                  ></a>
+                  <NuxtLink
+                    to="/detail"
+                    class="portfolio-details-lightbox"
+                    data-glightbox="type: external"
+                    title="Link al detalle de la Foto"
+                    ><i class="fas fa-link"></i
+                  ></NuxtLink>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="/img/fotos/img7.jpeg" class="img-fluid" alt="" />
+              <div class="portfolio-info">
+                <h4>Titulo <b>Foto</b></h4>
+                <p>Detalle de la foto</p>
+                <div class="portfolio-links">
+                  <a
+                    href="/img/fotos/img7.jpeg"
+                    data-gallery="portfolioGallery"
+                    class="portfolio-lightbox"
+                    title="Preview de la Foto"
+                    ><i class="fa fa-plus"></i
+                  ></a>
+                  <NuxtLink
+                    to="/detail"
+                    class="portfolio-details-lightbox"
+                    data-glightbox="type: external"
+                    title="Link al detalle de la Foto"
+                    ><i class="fas fa-link"></i
+                  ></NuxtLink>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="/img/fotos/img12.jpg" class="img-fluid" alt="" />
+              <div class="portfolio-info">
+                <h4>Titulo <b>Foto</b></h4>
+                <p>Detalle de la foto</p>
+                <div class="portfolio-links">
+                  <a
+                    href="/img/fotos/img12.jpg"
+                    data-gallery="portfolioGallery"
+                    class="portfolio-lightbox"
+                    title="Preview de la Foto"
+                    ><i class="fa fa-plus"></i
+                  ></a>
+                  <NuxtLink
+                    to="/detail"
+                    class="portfolio-details-lightbox"
+                    data-glightbox="type: external"
+                    title="Link al detalle de la Foto"
+                    ><i class="fas fa-link"></i
+                  ></NuxtLink>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="/img/fotos/img16.jpg" class="img-fluid" alt="" />
+              <div class="portfolio-info">
+                <h4>Titulo <b>Foto</b></h4>
+                <p>Detalle de la foto</p>
+                <div class="portfolio-links">
+                  <a
+                    href="/img/fotos/img16.jpg"
+                    data-gallery="portfolioGallery"
+                    class="portfolio-lightbox"
+                    title="Preview de la Foto"
+                    ><i class="fa fa-plus"></i
+                  ></a>
+                  <NuxtLink
+                    to="/detail"
+                    class="portfolio-details-lightbox"
+                    data-glightbox="type: external"
+                    title="Link al detalle de la Foto"
+                    ><i class="fas fa-link"></i
+                  ></NuxtLink>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- End Portfolio Section -->
   </main>
 </template>
 <script>

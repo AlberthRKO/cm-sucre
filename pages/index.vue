@@ -11,11 +11,11 @@
           <h2 data-aos="fade-up" class="text-uppercase">
             Stream Slogan <span class="text-danger">Concejo Municipal</span>
           </h2>
-          <p data-aos="fade-up" data-aos-delay="100">
+          <!-- <p data-aos="fade-up" data-aos-delay="100">
             Lorem Ipsum es simplemente el texto de relleno de las imprentas y
             archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar
             de las industrias desde el año 1500.
-          </p>
+          </p> -->
 
           <form
             action="#"
@@ -505,8 +505,390 @@
       </div>
     </section>
     <!-- End About Us Section -->
+
+    <section id="portfolio" class="portfolio pt-5">
+      <div class="container" data-aos="fade-up">
+        <div class="section-header">
+          <span>Galeria</span>
+          <h2>Gal<b>eria</b></h2>
+        </div>
+        <div class="swiper slides-5">
+          <div class="swiper-wrapper">
+            <div class="swiper-slide">
+              <div class="portfolio-item">
+                <div class="portfolio-wrap">
+                  <img src="/img/fotos/img1.jpeg" class="img-fluid" alt="" />
+                  <div class="portfolio-info">
+                    <h4>Titulo <b>Foto</b></h4>
+                    <p>Detalle de la foto</p>
+                    <div class="portfolio-links">
+                      <a
+                        href="/img/fotos/img1.jpeg"
+                        data-gallery="portfolioGallery"
+                        class="portfolio-lightbox"
+                        title="Preview de la Foto"
+                        ><i class="fa fa-plus"></i
+                      ></a>
+                      <NuxtLink
+                        to="/detail"
+                        class="portfolio-details-lightbox"
+                        data-glightbox="type: external"
+                        title="Link al detalle de la Foto"
+                        ><i class="fas fa-link"></i
+                      ></NuxtLink>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="swiper-slide">
+              <div class="portfolio-item">
+                <div class="portfolio-wrap">
+                  <img src="/img/fotos/img3.jpeg" class="img-fluid" alt="" />
+                  <div class="portfolio-info">
+                    <h4>Titulo <b>Foto</b></h4>
+                    <p>Detalle de la foto</p>
+                    <div class="portfolio-links">
+                      <a
+                        href="/img/fotos/img3.jpeg"
+                        data-gallery="portfolioGallery"
+                        class="portfolio-lightbox"
+                        title="Preview de la Foto"
+                        ><i class="fa fa-plus"></i
+                      ></a>
+                      <NuxtLink
+                        to="/detail"
+                        class="portfolio-details-lightbox"
+                        data-glightbox="type: external"
+                        title="Link al detalle de la Foto"
+                        ><i class="fas fa-link"></i
+                      ></NuxtLink>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="swiper-slide">
+              <div class="portfolio-item">
+                <div class="portfolio-wrap">
+                  <img src="/img/fotos/img4.jpg" class="img-fluid" alt="" />
+                  <div class="portfolio-info">
+                    <h4>Titulo <b>Foto</b></h4>
+                    <p>Detalle de la foto</p>
+                    <div class="portfolio-links">
+                      <a
+                        href="/img/fotos/img4.jpg"
+                        data-gallery="portfolioGallery"
+                        class="portfolio-lightbox"
+                        title="Preview de la Foto"
+                        ><i class="fa fa-plus"></i
+                      ></a>
+                      <NuxtLink
+                        to="/detail"
+                        class="portfolio-details-lightbox"
+                        data-glightbox="type: external"
+                        title="Link al detalle de la Foto"
+                        ><i class="fas fa-link"></i
+                      ></NuxtLink>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="swiper-slide">
+              <div class="portfolio-item">
+                <div class="portfolio-wrap">
+                  <img src="/img/fotos/img5.jpeg" class="img-fluid" alt="" />
+                  <div class="portfolio-info">
+                    <h4>Titulo <b>Foto</b></h4>
+                    <p>Detalle de la foto</p>
+                    <div class="portfolio-links">
+                      <a
+                        href="/img/fotos/img5.jpeg"
+                        data-gallery="portfolioGallery"
+                        class="portfolio-lightbox"
+                        title="Preview de la Foto"
+                        ><i class="fa fa-plus"></i
+                      ></a>
+                      <NuxtLink
+                        to="/detail"
+                        class="portfolio-details-lightbox"
+                        data-glightbox="type: external"
+                        title="Link al detalle de la Foto"
+                        ><i class="fas fa-link"></i
+                      ></NuxtLink>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="swiper-slide">
+              <div class="portfolio-item">
+                <div class="portfolio-wrap">
+                  <img src="/img/fotos/img7.jpeg" class="img-fluid" alt="" />
+                  <div class="portfolio-info">
+                    <h4>Titulo <b>Foto</b></h4>
+                    <p>Detalle de la foto</p>
+                    <div class="portfolio-links">
+                      <a
+                        href="/img/fotos/img7.jpeg"
+                        data-gallery="portfolioGallery"
+                        class="portfolio-lightbox"
+                        title="Preview de la Foto"
+                        ><i class="fa fa-plus"></i
+                      ></a>
+                      <NuxtLink
+                        to="/detail"
+                        class="portfolio-details-lightbox"
+                        data-glightbox="type: external"
+                        title="Link al detalle de la Foto"
+                        ><i class="fas fa-link"></i
+                      ></NuxtLink>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="swiper-slide">
+              <div class="portfolio-item">
+                <div class="portfolio-wrap">
+                  <img src="/img/fotos/img3.jpeg" class="img-fluid" alt="" />
+                  <div class="portfolio-info">
+                    <h4>Titulo <b>Foto</b></h4>
+                    <p>Detalle de la foto</p>
+                    <div class="portfolio-links">
+                      <a
+                        href="/img/fotos/img3.jpeg"
+                        data-gallery="portfolioGallery"
+                        class="portfolio-lightbox"
+                        title="Preview de la Foto"
+                        ><i class="fa fa-plus"></i
+                      ></a>
+                      <NuxtLink
+                        to="/detail"
+                        class="portfolio-details-lightbox"
+                        data-glightbox="type: external"
+                        title="Link al detalle de la Foto"
+                        ><i class="fas fa-link"></i
+                      ></NuxtLink>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="swiper-slide">
+              <div class="portfolio-item">
+                <div class="portfolio-wrap">
+                  <img src="/img/fotos/img4.jpg" class="img-fluid" alt="" />
+                  <div class="portfolio-info">
+                    <h4>Titulo <b>Foto</b></h4>
+                    <p>Detalle de la foto</p>
+                    <div class="portfolio-links">
+                      <a
+                        href="/img/fotos/img4.jpg"
+                        data-gallery="portfolioGallery"
+                        class="portfolio-lightbox"
+                        title="Preview de la Foto"
+                        ><i class="fa fa-plus"></i
+                      ></a>
+                      <NuxtLink
+                        to="/detail"
+                        class="portfolio-details-lightbox"
+                        data-glightbox="type: external"
+                        title="Link al detalle de la Foto"
+                        ><i class="fas fa-link"></i
+                      ></NuxtLink>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="swiper-slide">
+              <div class="portfolio-item">
+                <div class="portfolio-wrap">
+                  <img src="/img/fotos/img5.jpeg" class="img-fluid" alt="" />
+                  <div class="portfolio-info">
+                    <h4>Titulo <b>Foto</b></h4>
+                    <p>Detalle de la foto</p>
+                    <div class="portfolio-links">
+                      <a
+                        href="/img/fotos/img5.jpeg"
+                        data-gallery="portfolioGallery"
+                        class="portfolio-lightbox"
+                        title="Preview de la Foto"
+                        ><i class="fa fa-plus"></i
+                      ></a>
+                      <NuxtLink
+                        to="/detail"
+                        class="portfolio-details-lightbox"
+                        data-glightbox="type: external"
+                        title="Link al detalle de la Foto"
+                        ><i class="fas fa-link"></i
+                      ></NuxtLink>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="swiper-slide">
+              <div class="portfolio-item">
+                <div class="portfolio-wrap">
+                  <img src="/img/fotos/img7.jpeg" class="img-fluid" alt="" />
+                  <div class="portfolio-info">
+                    <h4>Titulo <b>Foto</b></h4>
+                    <p>Detalle de la foto</p>
+                    <div class="portfolio-links">
+                      <a
+                        href="/img/fotos/img7.jpeg"
+                        data-gallery="portfolioGallery"
+                        class="portfolio-lightbox"
+                        title="Preview de la Foto"
+                        ><i class="fa fa-plus"></i
+                      ></a>
+                      <NuxtLink
+                        to="/detail"
+                        class="portfolio-details-lightbox"
+                        data-glightbox="type: external"
+                        title="Link al detalle de la Foto"
+                        ><i class="fas fa-link"></i
+                      ></NuxtLink>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="swiper-slide">
+              <div class="portfolio-item">
+                <div class="portfolio-wrap">
+                  <img src="/img/fotos/img3.jpeg" class="img-fluid" alt="" />
+                  <div class="portfolio-info">
+                    <h4>Titulo <b>Foto</b></h4>
+                    <p>Detalle de la foto</p>
+                    <div class="portfolio-links">
+                      <a
+                        href="/img/fotos/img3.jpeg"
+                        data-gallery="portfolioGallery"
+                        class="portfolio-lightbox"
+                        title="Preview de la Foto"
+                        ><i class="fa fa-plus"></i
+                      ></a>
+                      <NuxtLink
+                        to="/detail"
+                        class="portfolio-details-lightbox"
+                        data-glightbox="type: external"
+                        title="Link al detalle de la Foto"
+                        ><i class="fas fa-link"></i
+                      ></NuxtLink>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="swiper-slide">
+              <div class="portfolio-item">
+                <div class="portfolio-wrap">
+                  <img src="/img/fotos/img4.jpg" class="img-fluid" alt="" />
+                  <div class="portfolio-info">
+                    <h4>Titulo <b>Foto</b></h4>
+                    <p>Detalle de la foto</p>
+                    <div class="portfolio-links">
+                      <a
+                        href="/img/fotos/img4.jpg"
+                        data-gallery="portfolioGallery"
+                        class="portfolio-lightbox"
+                        title="Preview de la Foto"
+                        ><i class="fa fa-plus"></i
+                      ></a>
+                      <NuxtLink
+                        to="/detail"
+                        class="portfolio-details-lightbox"
+                        data-glightbox="type: external"
+                        title="Link al detalle de la Foto"
+                        ><i class="fas fa-link"></i
+                      ></NuxtLink>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="swiper-slide">
+              <div class="portfolio-item">
+                <div class="portfolio-wrap">
+                  <img src="/img/fotos/img5.jpeg" class="img-fluid" alt="" />
+                  <div class="portfolio-info">
+                    <h4>Titulo <b>Foto</b></h4>
+                    <p>Detalle de la foto</p>
+                    <div class="portfolio-links">
+                      <a
+                        href="/img/fotos/img5.jpeg"
+                        data-gallery="portfolioGallery"
+                        class="portfolio-lightbox"
+                        title="Preview de la Foto"
+                        ><i class="fa fa-plus"></i
+                      ></a>
+                      <NuxtLink
+                        to="/detail"
+                        class="portfolio-details-lightbox"
+                        data-glightbox="type: external"
+                        title="Link al detalle de la Foto"
+                        ><i class="fas fa-link"></i
+                      ></NuxtLink>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="swiper-slide">
+              <div class="portfolio-item">
+                <div class="portfolio-wrap">
+                  <img src="/img/fotos/img7.jpeg" class="img-fluid" alt="" />
+                  <div class="portfolio-info">
+                    <h4>Titulo <b>Foto</b></h4>
+                    <p>Detalle de la foto</p>
+                    <div class="portfolio-links">
+                      <a
+                        href="/img/fotos/img7.jpeg"
+                        data-gallery="portfolioGallery"
+                        class="portfolio-lightbox"
+                        title="Preview de la Foto"
+                        ><i class="fa fa-plus"></i
+                      ></a>
+                      <NuxtLink
+                        to="/detail"
+                        class="portfolio-details-lightbox"
+                        data-glightbox="type: external"
+                        title="Link al detalle de la Foto"
+                        ><i class="fas fa-link"></i
+                      ></NuxtLink>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <!-- Agrega más slides aquí -->
+          </div>
+          <div class="slider-controler">
+            <!-- <div class="swiper-button-prev slider-arrow text-danger">
+              <i class="fas fa-arrow-left"></i>
+            </div>
+            <div class="swiper-button-next slider-arrow text-danger">
+              <i class="fas fa-arrow-right"></i>
+            </div> -->
+            <!-- <div class="swiper-pagination swiper-pagination-5"></div> -->
+          </div>
+        </div>
+
+        <div class="d-flex justify-content-center py-4">
+          <NuxtLink to="/galeria-fotos" class="btn btn-primary"
+            >Ver todas las Fotos <i class="fas fa-arrow-right"></i
+          ></NuxtLink>
+        </div>
+      </div>
+    </section>
+
     <!-- ======= Testimonials Section ======= -->
-    <section id="galeria" class="galeria">
+    <section id="galeria" class="galeria d-none">
       <div class="container">
         <div class="section-header">
           <span>Galeria</span>
@@ -1035,6 +1417,44 @@ export default {
         // Cambia a 3 slides en dispositivos con ancho máximo de 1200px (típicamente pantallas medianas)
         1200: {
           slidesPerView: 2,
+        },
+      },
+    });
+    new Swiper(".slides-5", {
+      // slidesPerView: 1, // Mostrar 3 slides en pantalla grande
+
+      spaceBetween: 20,
+      speed: 600,
+      loop: true,
+      autoplay: {
+        delay: 3000,
+        disableOnInteraction: false,
+      },
+      pagination: {
+        el: ".swiper-pagination-5",
+        type: "bullets",
+        clickable: true,
+      },
+      /* 
+      navigation: {
+        nextEl: ".swiper-button-next",
+        prevEl: ".swiper-button-prev",
+      }, */
+      breakpoints: {
+        // Cambia a 1 slide en dispositivos con ancho máximo de 768px (típicamente dispositivos móviles)
+        567: {
+          slidesPerView: 1,
+        },
+        768: {
+          slidesPerView: 2,
+        },
+        // Cambia a 2 slides en dispositivos con ancho máximo de 992px (típicamente tabletas)
+        992: {
+          slidesPerView: 2,
+        },
+        // Cambia a 3 slides en dispositivos con ancho máximo de 1200px (típicamente pantallas medianas)
+        1200: {
+          slidesPerView: 3,
         },
       },
     });

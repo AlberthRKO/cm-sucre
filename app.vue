@@ -4,17 +4,18 @@
     <div
       class="container-fluid container-xl d-flex align-items-center justify-content-between"
     >
+      <i class="mobile-nav-show opacity-0 bi bi-list"></i>
       <NuxtLink
         to="/"
         exact
         :class="{ active: isLinkActive('/') }"
-        class="logo d-flex align-items-center"
+        class="logo d-flex align-items-center justify-content-center"
       >
         <!-- Uncomment the line below if you also wish to use an image logo -->
-        <img src="/img/logoCM.png" alt="" />
+        <img src="/img/logo.png" alt="" class="img-fluid" />
       </NuxtLink>
 
-      <i class="mobile-nav-toggle mobile-nav-show bi bi-list"></i>
+      <i class="mobile-nav-toggle text-white mobile-nav-show bi bi-list"></i>
       <i class="mobile-nav-toggle mobile-nav-hide d-none bi bi-x"></i>
       <nav id="navbar" class="navbar">
         <ul>
@@ -142,21 +143,24 @@
 
   <!-- ======= Footer ======= -->
   <div class="contenedor-wave overflow-hidden">
-    <img src="/img/footer.png" alt="" class="wave" />
+    <img src="/img/footer.svg" alt="" class="wave wave2" />
   </div>
-  <footer id="footer" class="footer bg-info">
+  <footer id="footer" class="footer">
     <div class="container">
       <div class="row gy-4">
         <div class="col-lg-5 col-md-12 footer-info">
-          <a href="index.html" class="logo d-flex align-items-center">
-            <img src="/img/logoCM.png" alt="" />
+          <a
+            href="index.html"
+            class="logo d-flex align-items-center justify-content-center justify-content-lg-start"
+          >
+            <img src="/img/logo.png" alt="" />
           </a>
-          <p>
-            Cras fermentum odio eu feugiat lide par naso tierra. Justo eget nada
-            terra videa magna derita valies darta donna mare fermentum iaculis
-            eu non diam phasellus.
+          <p class="text-center text-lg-start">
+            "Un concejo de puertas abiertas"
           </p>
-          <div class="social-links d-flex mt-4">
+          <div
+            class="social-links d-flex mt-4 d-flex justify-content-center justify-content-lg-start"
+          >
             <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
             <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
             <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
@@ -212,9 +216,7 @@
       </div>
       <div class="credits">
         Designed by
-        <a href="https://alberth.netlify.app" class="text-black fw-bold"
-          >Alberth</a
-        >
+        <a href="https://alberth.netlify.app" class="fw-bold">Alberth</a>
       </div>
     </div>
   </footer>

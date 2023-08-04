@@ -9,7 +9,7 @@
           class="col-lg-6 order-2 order-lg-1 d-flex flex-column justify-content-center"
         >
           <h2 data-aos="fade-up" class="text-uppercase">
-            Stream Slogan <span class="text-danger">Concejo Municipal</span>
+            <i>"Un Concejo de puertas abiertas"</i>
           </h2>
           <!-- <p data-aos="fade-up" data-aos-delay="100">
             Lorem Ipsum es simplemente el texto de relleno de las imprentas y
@@ -36,7 +36,7 @@
             data-aos="fade-up"
             data-aos-delay="400"
           >
-            <p>Streams en vivo</p>
+            <p class="text-white">Streams en vivo</p>
 
             <div
               class="col-lg-4 col-6 position-relative align-self-start stream-box"
@@ -64,11 +64,32 @@
         </div> -->
       </div>
     </div>
-    <img src="/img/header_4_wave6.png" alt="" class="wave" />
+    <!-- <svg
+      id="wave"
+      class="wave"
+      style="transform: rotate(0deg); transition: 0.3s"
+      viewBox="0 0 3000 170"
+      version="1.1"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <defs>
+        <linearGradient id="sw-gradient-0" x1="0" x2="0" y1="1" y2="0">
+          <stop stop-color="rgba(220, 53, 69, 1)" offset="0%"></stop>
+          <stop stop-color="rgba(220, 53, 69, 1)" offset="100%"></stop>
+        </linearGradient>
+      </defs>
+      <path
+        style="transform: translate(0, 0px); opacity: 1"
+        fill="url(#sw-gradient-0)"
+        d="M0,27L80,31.5C160,36,320,45,480,72C640,99,800,144,960,166.5C1120,189,1280,189,1440,157.5C1600,126,1760,63,1920,49.5C2080,36,2240,72,2400,112.5C2560,153,2720,198,2880,211.5C3040,225,3200,207,3360,189C3520,171,3680,153,3840,148.5C4000,144,4160,153,4320,135C4480,117,4640,72,4800,67.5C4960,63,5120,99,5280,99C5440,99,5600,63,5760,67.5C5920,72,6080,117,6240,112.5C6400,108,6560,54,6720,27C6880,0,7040,0,7200,13.5C7360,27,7520,54,7680,85.5C7840,117,8000,153,8160,144C8320,135,8480,81,8640,81C8800,81,8960,135,9120,148.5C9280,162,9440,135,9600,139.5C9760,144,9920,180,10080,180C10240,180,10400,144,10560,130.5C10720,117,10880,126,11040,108C11200,90,11360,45,11440,22.5L11520,0L11520,270L11440,270C11360,270,11200,270,11040,270C10880,270,10720,270,10560,270C10400,270,10240,270,10080,270C9920,270,9760,270,9600,270C9440,270,9280,270,9120,270C8960,270,8800,270,8640,270C8480,270,8320,270,8160,270C8000,270,7840,270,7680,270C7520,270,7360,270,7200,270C7040,270,6880,270,6720,270C6560,270,6400,270,6240,270C6080,270,5920,270,5760,270C5600,270,5440,270,5280,270C5120,270,4960,270,4800,270C4640,270,4480,270,4320,270C4160,270,4000,270,3840,270C3680,270,3520,270,3360,270C3200,270,3040,270,2880,270C2720,270,2560,270,2400,270C2240,270,2080,270,1920,270C1760,270,1600,270,1440,270C1280,270,1120,270,960,270C800,270,640,270,480,270C320,270,160,270,80,270L0,270Z"
+      ></path>
+    </svg> -->
+    <img src="/img/prueba.svg" alt="" class="wave" />
+    <img src="/img/prueba2.svg" alt="" class="wave" />
   </section>
   <!-- End Hero Section -->
   <main id="main">
-    <section id="about" class="about">
+    <section id="about" class="about bg-white">
       <div class="container" data-aos="fade-up">
         <div class="section-header">
           <span>Transmisiones</span>
@@ -519,7 +540,7 @@
                 <div class="portfolio-wrap">
                   <img src="/img/fotos/img1.jpeg" class="img-fluid" alt="" />
                   <div class="portfolio-info">
-                    <h4>Titulo <b>Foto</b></h4>
+                    <h4>Titulo Foto</h4>
                     <p>Detalle de la foto</p>
                     <div class="portfolio-links">
                       <a
@@ -546,7 +567,7 @@
                 <div class="portfolio-wrap">
                   <img src="/img/fotos/img3.jpeg" class="img-fluid" alt="" />
                   <div class="portfolio-info">
-                    <h4>Titulo <b>Foto</b></h4>
+                    <h4>Titulo Foto</h4>
                     <p>Detalle de la foto</p>
                     <div class="portfolio-links">
                       <a
@@ -573,7 +594,7 @@
                 <div class="portfolio-wrap">
                   <img src="/img/fotos/img4.jpg" class="img-fluid" alt="" />
                   <div class="portfolio-info">
-                    <h4>Titulo <b>Foto</b></h4>
+                    <h4>Titulo Foto</h4>
                     <p>Detalle de la foto</p>
                     <div class="portfolio-links">
                       <a
@@ -600,7 +621,7 @@
                 <div class="portfolio-wrap">
                   <img src="/img/fotos/img5.jpeg" class="img-fluid" alt="" />
                   <div class="portfolio-info">
-                    <h4>Titulo <b>Foto</b></h4>
+                    <h4>Titulo Foto</h4>
                     <p>Detalle de la foto</p>
                     <div class="portfolio-links">
                       <a
@@ -627,7 +648,7 @@
                 <div class="portfolio-wrap">
                   <img src="/img/fotos/img7.jpeg" class="img-fluid" alt="" />
                   <div class="portfolio-info">
-                    <h4>Titulo <b>Foto</b></h4>
+                    <h4>Titulo Foto</h4>
                     <p>Detalle de la foto</p>
                     <div class="portfolio-links">
                       <a
@@ -654,7 +675,7 @@
                 <div class="portfolio-wrap">
                   <img src="/img/fotos/img3.jpeg" class="img-fluid" alt="" />
                   <div class="portfolio-info">
-                    <h4>Titulo <b>Foto</b></h4>
+                    <h4>Titulo Foto</h4>
                     <p>Detalle de la foto</p>
                     <div class="portfolio-links">
                       <a
@@ -681,7 +702,7 @@
                 <div class="portfolio-wrap">
                   <img src="/img/fotos/img4.jpg" class="img-fluid" alt="" />
                   <div class="portfolio-info">
-                    <h4>Titulo <b>Foto</b></h4>
+                    <h4>Titulo Foto</h4>
                     <p>Detalle de la foto</p>
                     <div class="portfolio-links">
                       <a
@@ -708,7 +729,7 @@
                 <div class="portfolio-wrap">
                   <img src="/img/fotos/img5.jpeg" class="img-fluid" alt="" />
                   <div class="portfolio-info">
-                    <h4>Titulo <b>Foto</b></h4>
+                    <h4>Titulo Foto</h4>
                     <p>Detalle de la foto</p>
                     <div class="portfolio-links">
                       <a
@@ -735,7 +756,7 @@
                 <div class="portfolio-wrap">
                   <img src="/img/fotos/img7.jpeg" class="img-fluid" alt="" />
                   <div class="portfolio-info">
-                    <h4>Titulo <b>Foto</b></h4>
+                    <h4>Titulo Foto</h4>
                     <p>Detalle de la foto</p>
                     <div class="portfolio-links">
                       <a
@@ -762,7 +783,7 @@
                 <div class="portfolio-wrap">
                   <img src="/img/fotos/img3.jpeg" class="img-fluid" alt="" />
                   <div class="portfolio-info">
-                    <h4>Titulo <b>Foto</b></h4>
+                    <h4>Titulo Foto</h4>
                     <p>Detalle de la foto</p>
                     <div class="portfolio-links">
                       <a
@@ -789,7 +810,7 @@
                 <div class="portfolio-wrap">
                   <img src="/img/fotos/img4.jpg" class="img-fluid" alt="" />
                   <div class="portfolio-info">
-                    <h4>Titulo <b>Foto</b></h4>
+                    <h4>Titulo Foto</h4>
                     <p>Detalle de la foto</p>
                     <div class="portfolio-links">
                       <a
@@ -816,7 +837,7 @@
                 <div class="portfolio-wrap">
                   <img src="/img/fotos/img5.jpeg" class="img-fluid" alt="" />
                   <div class="portfolio-info">
-                    <h4>Titulo <b>Foto</b></h4>
+                    <h4>Titulo Foto</h4>
                     <p>Detalle de la foto</p>
                     <div class="portfolio-links">
                       <a
@@ -843,7 +864,7 @@
                 <div class="portfolio-wrap">
                   <img src="/img/fotos/img7.jpeg" class="img-fluid" alt="" />
                   <div class="portfolio-info">
-                    <h4>Titulo <b>Foto</b></h4>
+                    <h4>Titulo Foto</h4>
                     <p>Detalle de la foto</p>
                     <div class="portfolio-links">
                       <a
@@ -995,11 +1016,17 @@
                     <span class="badge badge-primary bg-danger mb-2"
                       >Noticia</span
                     >
-                    <h3>Nombre de la noticia</h3>
-                    <p class="fst-italic">
-                      Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-                      sed do eiusmod tempor incididunt ut labore et dolore magna
-                      aliqua.
+                    <h3>
+                      El Presidente del Concejo Municipal, e reunió con
+                      dirigentes campesinos de la Comunidad de Pinos
+                    </h3>
+                    <span
+                      ><i class="fas fa-calendar-alt text-danger"></i> Publicado
+                      el: <b>2023-08-05</b></span
+                    >
+                    <p class="fst-italic mt-2">
+                      El Presidente del Concejo Municipal, e reunió con
+                      dirigentes campesinos de la Comunidad de Pinos
                     </p>
                     <NuxtLink to="/detail" class="btn btn-primary"
                       >Saber Más <i class="fas fa-paper-plane"></i
@@ -1023,11 +1050,17 @@
                     <span class="badge badge-primary bg-danger mb-2"
                       >Noticia</span
                     >
-                    <h3>Nombre de la noticia</h3>
+                    <h3>
+                      Gobierno Municipal de Tarija, Concejo Municipal, rindieron
+                      homenaje a los LXXVI Aniversario de la USFX
+                    </h3>
+                    <span
+                      ><i class="fas fa-calendar-alt text-danger"></i> Publicado
+                      el: <b>2023-08-05</b></span
+                    >
                     <p class="fst-italic">
-                      Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-                      sed do eiusmod tempor incididunt ut labore et dolore magna
-                      aliqua.
+                      Gobierno Municipal de Sucre, Concejo Municipal, rindieron
+                      homenaje a los LXXVI Aniversario de la USFX
                     </p>
                     <NuxtLink to="/detail" class="btn btn-primary"
                       >Saber Más <i class="fas fa-paper-plane"></i
@@ -1051,11 +1084,17 @@
                     <span class="badge badge-primary bg-danger mb-2"
                       >Noticia</span
                     >
-                    <h3>Nombre de la noticia</h3>
-                    <p class="fst-italic">
-                      Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-                      sed do eiusmod tempor incididunt ut labore et dolore magna
-                      aliqua.
+                    <h3>
+                      El Presidente del Concejo Municipal, e reunió con
+                      dirigentes campesinos de la Comunidad de Pinos
+                    </h3>
+                    <span
+                      ><i class="fas fa-calendar-alt text-danger"></i> Publicado
+                      el: <b>2023-08-05</b></span
+                    >
+                    <p class="fst-italic mt-2">
+                      El Presidente del Concejo Municipal, e reunió con
+                      dirigentes campesinos de la Comunidad de Pinos
                     </p>
                     <NuxtLink to="/detail" class="btn btn-primary"
                       >Saber Más <i class="fas fa-paper-plane"></i
@@ -1079,11 +1118,17 @@
                     <span class="badge badge-primary bg-danger mb-2"
                       >Noticia</span
                     >
-                    <h3>Nombre de la noticia</h3>
+                    <h3>
+                      Gobierno Municipal de Tarija, Concejo Municipal, rindieron
+                      homenaje a los LXXVI Aniversario de la USFX
+                    </h3>
+                    <span
+                      ><i class="fas fa-calendar-alt text-danger"></i> Publicado
+                      el: <b>2023-08-05</b></span
+                    >
                     <p class="fst-italic">
-                      Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-                      sed do eiusmod tempor incididunt ut labore et dolore magna
-                      aliqua.
+                      Gobierno Municipal de Sucre, Concejo Municipal, rindieron
+                      homenaje a los LXXVI Aniversario de la USFX
                     </p>
                     <NuxtLink to="/detail" class="btn btn-primary"
                       >Saber Más <i class="fas fa-paper-plane"></i

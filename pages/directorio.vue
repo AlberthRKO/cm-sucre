@@ -39,12 +39,9 @@
               <div class="member">
                 <img src="/img/team/team-2.jpg" class="img-fluid" alt="" />
                 <div class="member-content">
-                  <h4>William Anderson</h4>
-                  <span>Content</span>
-                  <p>
-                    Voluptas necessitatibus occaecati quia. Earum totam
-                    consequuntur qui porro et laborum toro des clara
-                  </p>
+                  <h4>Lola Terrazas Terrazas</h4>
+                  <span>Vice Presidenta del Concejo Municipal</span>
+
                   <div class="social">
                     <a href=""><i class="bi bi-twitter"></i></a>
                     <a href=""><i class="bi bi-facebook"></i></a>
@@ -59,12 +56,9 @@
               <div class="member">
                 <img src="/img/team/team-1.jpg" class="img-fluid" alt="" />
                 <div class="member-content">
-                  <h4>William Anderson</h4>
-                  <span>Content</span>
-                  <p>
-                    Voluptas necessitatibus occaecati quia. Earum totam
-                    consequuntur qui porro et laborum toro des clara
-                  </p>
+                  <h4>Gabriela Garzón Cruz</h4>
+                  <span>Presidenta del Concejo Municipal</span>
+
                   <div class="social">
                     <a href=""><i class="bi bi-twitter"></i></a>
                     <a href=""><i class="bi bi-facebook"></i></a>
@@ -79,12 +73,9 @@
               <div class="member">
                 <img src="/img/team/team-3.jpg" class="img-fluid" alt="" />
                 <div class="member-content">
-                  <h4>William Anderson</h4>
-                  <span>Content</span>
-                  <p>
-                    Voluptas necessitatibus occaecati quia. Earum totam
-                    consequuntur qui porro et laborum toro des clara
-                  </p>
+                  <h4>Luis Miguel Fernández Rea</h4>
+                  <span>Secretario del Concejo Municipal</span>
+
                   <div class="social">
                     <a href=""><i class="bi bi-twitter"></i></a>
                     <a href=""><i class="bi bi-facebook"></i></a>
@@ -99,12 +90,9 @@
               <div class="member">
                 <img src="/img/team/team-2.jpg" class="img-fluid" alt="" />
                 <div class="member-content">
-                  <h4>William Anderson</h4>
-                  <span>Content</span>
-                  <p>
-                    Voluptas necessitatibus occaecati quia. Earum totam
-                    consequuntur qui porro et laborum toro des clara
-                  </p>
+                  <h4>Lola Terrazas Terrazas</h4>
+                  <span>Vice Presidenta del Concejo Municipal</span>
+
                   <div class="social">
                     <a href=""><i class="bi bi-twitter"></i></a>
                     <a href=""><i class="bi bi-facebook"></i></a>
@@ -118,12 +106,9 @@
               <div class="member">
                 <img src="/img/team/team-2.jpg" class="img-fluid" alt="" />
                 <div class="member-content">
-                  <h4>William Anderson</h4>
-                  <span>Content</span>
-                  <p>
-                    Voluptas necessitatibus occaecati quia. Earum totam
-                    consequuntur qui porro et laborum toro des clara
-                  </p>
+                  <h4>Lola Terrazas Terrazas</h4>
+                  <span>Vice Presidenta del Concejo Municipal</span>
+
                   <div class="social">
                     <a href=""><i class="bi bi-twitter"></i></a>
                     <a href=""><i class="bi bi-facebook"></i></a>
@@ -138,12 +123,9 @@
               <div class="member">
                 <img src="/img/team/team-1.jpg" class="img-fluid" alt="" />
                 <div class="member-content">
-                  <h4>William Anderson</h4>
-                  <span>Content</span>
-                  <p>
-                    Voluptas necessitatibus occaecati quia. Earum totam
-                    consequuntur qui porro et laborum toro des clara
-                  </p>
+                  <h4>Gabriela Garzón Cruz</h4>
+                  <span>Presidenta del Concejo Municipal</span>
+
                   <div class="social">
                     <a href=""><i class="bi bi-twitter"></i></a>
                     <a href=""><i class="bi bi-facebook"></i></a>
@@ -158,12 +140,9 @@
               <div class="member">
                 <img src="/img/team/team-3.jpg" class="img-fluid" alt="" />
                 <div class="member-content">
-                  <h4>William Anderson</h4>
-                  <span>Content</span>
-                  <p>
-                    Voluptas necessitatibus occaecati quia. Earum totam
-                    consequuntur qui porro et laborum toro des clara
-                  </p>
+                  <h4>Luis Miguel Fernández Rea</h4>
+                  <span>Secretario del Concejo Municipal</span>
+
                   <div class="social">
                     <a href=""><i class="bi bi-twitter"></i></a>
                     <a href=""><i class="bi bi-facebook"></i></a>
@@ -178,12 +157,9 @@
               <div class="member">
                 <img src="/img/team/team-2.jpg" class="img-fluid" alt="" />
                 <div class="member-content">
-                  <h4>William Anderson</h4>
-                  <span>Content</span>
-                  <p>
-                    Voluptas necessitatibus occaecati quia. Earum totam
-                    consequuntur qui porro et laborum toro des clara
-                  </p>
+                  <h4>Lola Terrazas Terrazas</h4>
+                  <span>Vice Presidenta del Concejo Municipal</span>
+
                   <div class="social">
                     <a href=""><i class="bi bi-twitter"></i></a>
                     <a href=""><i class="bi bi-facebook"></i></a>
@@ -197,12 +173,9 @@
               <div class="member">
                 <img src="/img/team/team-2.jpg" class="img-fluid" alt="" />
                 <div class="member-content">
-                  <h4>William Anderson</h4>
-                  <span>Content</span>
-                  <p>
-                    Voluptas necessitatibus occaecati quia. Earum totam
-                    consequuntur qui porro et laborum toro des clara
-                  </p>
+                  <h4>Lola Terrazas Terrazas</h4>
+                  <span>Vice Presidenta del Concejo Municipal</span>
+
                   <div class="social">
                     <a href=""><i class="bi bi-twitter"></i></a>
                     <a href=""><i class="bi bi-facebook"></i></a>
@@ -217,12 +190,9 @@
               <div class="member">
                 <img src="/img/team/team-1.jpg" class="img-fluid" alt="" />
                 <div class="member-content">
-                  <h4>William Anderson</h4>
-                  <span>Content</span>
-                  <p>
-                    Voluptas necessitatibus occaecati quia. Earum totam
-                    consequuntur qui porro et laborum toro des clara
-                  </p>
+                  <h4>Gabriela Garzón Cruz</h4>
+                  <span>Presidenta del Concejo Municipal</span>
+
                   <div class="social">
                     <a href=""><i class="bi bi-twitter"></i></a>
                     <a href=""><i class="bi bi-facebook"></i></a>
@@ -237,12 +207,9 @@
               <div class="member">
                 <img src="/img/team/team-3.jpg" class="img-fluid" alt="" />
                 <div class="member-content">
-                  <h4>William Anderson</h4>
-                  <span>Content</span>
-                  <p>
-                    Voluptas necessitatibus occaecati quia. Earum totam
-                    consequuntur qui porro et laborum toro des clara
-                  </p>
+                  <h4>Luis Miguel Fernández Rea</h4>
+                  <span>Secretario del Concejo Municipal</span>
+
                   <div class="social">
                     <a href=""><i class="bi bi-twitter"></i></a>
                     <a href=""><i class="bi bi-facebook"></i></a>
@@ -257,12 +224,9 @@
               <div class="member">
                 <img src="/img/team/team-2.jpg" class="img-fluid" alt="" />
                 <div class="member-content">
-                  <h4>William Anderson</h4>
-                  <span>Content</span>
-                  <p>
-                    Voluptas necessitatibus occaecati quia. Earum totam
-                    consequuntur qui porro et laborum toro des clara
-                  </p>
+                  <h4>Lola Terrazas Terrazas</h4>
+                  <span>Vice Presidenta del Concejo Municipal</span>
+
                   <div class="social">
                     <a href=""><i class="bi bi-twitter"></i></a>
                     <a href=""><i class="bi bi-facebook"></i></a>
@@ -292,12 +256,9 @@
               <div class="member">
                 <img src="/img/team/team-1.jpg" class="img-fluid" alt="" />
                 <div class="member-content">
-                  <h4>William Anderson</h4>
-                  <span>Content</span>
-                  <p>
-                    Voluptas necessitatibus occaecati quia. Earum totam
-                    consequuntur qui porro et laborum toro des clara
-                  </p>
+                  <h4>Gabriela Garzón Cruz</h4>
+                  <span>Presidenta del Concejo Municipal</span>
+
                   <div class="social">
                     <a href=""><i class="bi bi-twitter"></i></a>
                     <a href=""><i class="bi bi-facebook"></i></a>
@@ -312,12 +273,9 @@
               <div class="member">
                 <img src="/img/team/team-2.jpg" class="img-fluid" alt="" />
                 <div class="member-content">
-                  <h4>William Anderson</h4>
-                  <span>Content</span>
-                  <p>
-                    Voluptas necessitatibus occaecati quia. Earum totam
-                    consequuntur qui porro et laborum toro des clara
-                  </p>
+                  <h4>Lola Terrazas Terrazas</h4>
+                  <span>Vice Presidenta del Concejo Municipal</span>
+
                   <div class="social">
                     <a href=""><i class="bi bi-twitter"></i></a>
                     <a href=""><i class="bi bi-facebook"></i></a>
@@ -332,12 +290,9 @@
               <div class="member">
                 <img src="/img/team/team-3.jpg" class="img-fluid" alt="" />
                 <div class="member-content">
-                  <h4>William Anderson</h4>
-                  <span>Content</span>
-                  <p>
-                    Voluptas necessitatibus occaecati quia. Earum totam
-                    consequuntur qui porro et laborum toro des clara
-                  </p>
+                  <h4>Luis Miguel Fernández Rea</h4>
+                  <span>Secretario del Concejo Municipal</span>
+
                   <div class="social">
                     <a href=""><i class="bi bi-twitter"></i></a>
                     <a href=""><i class="bi bi-facebook"></i></a>
@@ -352,12 +307,9 @@
               <div class="member">
                 <img src="/img/team/team-1.jpg" class="img-fluid" alt="" />
                 <div class="member-content">
-                  <h4>William Anderson</h4>
-                  <span>Content</span>
-                  <p>
-                    Voluptas necessitatibus occaecati quia. Earum totam
-                    consequuntur qui porro et laborum toro des clara
-                  </p>
+                  <h4>Gabriela Garzón Cruz</h4>
+                  <span>Presidenta del Concejo Municipal</span>
+
                   <div class="social">
                     <a href=""><i class="bi bi-twitter"></i></a>
                     <a href=""><i class="bi bi-facebook"></i></a>
@@ -371,12 +323,9 @@
               <div class="member">
                 <img src="/img/team/team-1.jpg" class="img-fluid" alt="" />
                 <div class="member-content">
-                  <h4>William Anderson</h4>
-                  <span>Content</span>
-                  <p>
-                    Voluptas necessitatibus occaecati quia. Earum totam
-                    consequuntur qui porro et laborum toro des clara
-                  </p>
+                  <h4>Gabriela Garzón Cruz</h4>
+                  <span>Presidenta del Concejo Municipal</span>
+
                   <div class="social">
                     <a href=""><i class="bi bi-twitter"></i></a>
                     <a href=""><i class="bi bi-facebook"></i></a>
@@ -391,12 +340,9 @@
               <div class="member">
                 <img src="/img/team/team-2.jpg" class="img-fluid" alt="" />
                 <div class="member-content">
-                  <h4>William Anderson</h4>
-                  <span>Content</span>
-                  <p>
-                    Voluptas necessitatibus occaecati quia. Earum totam
-                    consequuntur qui porro et laborum toro des clara
-                  </p>
+                  <h4>Lola Terrazas Terrazas</h4>
+                  <span>Vice Presidenta del Concejo Municipal</span>
+
                   <div class="social">
                     <a href=""><i class="bi bi-twitter"></i></a>
                     <a href=""><i class="bi bi-facebook"></i></a>
@@ -411,12 +357,9 @@
               <div class="member">
                 <img src="/img/team/team-3.jpg" class="img-fluid" alt="" />
                 <div class="member-content">
-                  <h4>William Anderson</h4>
-                  <span>Content</span>
-                  <p>
-                    Voluptas necessitatibus occaecati quia. Earum totam
-                    consequuntur qui porro et laborum toro des clara
-                  </p>
+                  <h4>Luis Miguel Fernández Rea</h4>
+                  <span>Secretario del Concejo Municipal</span>
+
                   <div class="social">
                     <a href=""><i class="bi bi-twitter"></i></a>
                     <a href=""><i class="bi bi-facebook"></i></a>
@@ -431,12 +374,9 @@
               <div class="member">
                 <img src="/img/team/team-1.jpg" class="img-fluid" alt="" />
                 <div class="member-content">
-                  <h4>William Anderson</h4>
-                  <span>Content</span>
-                  <p>
-                    Voluptas necessitatibus occaecati quia. Earum totam
-                    consequuntur qui porro et laborum toro des clara
-                  </p>
+                  <h4>Gabriela Garzón Cruz</h4>
+                  <span>Presidenta del Concejo Municipal</span>
+
                   <div class="social">
                     <a href=""><i class="bi bi-twitter"></i></a>
                     <a href=""><i class="bi bi-facebook"></i></a>
@@ -450,12 +390,9 @@
               <div class="member">
                 <img src="/img/team/team-1.jpg" class="img-fluid" alt="" />
                 <div class="member-content">
-                  <h4>William Anderson</h4>
-                  <span>Content</span>
-                  <p>
-                    Voluptas necessitatibus occaecati quia. Earum totam
-                    consequuntur qui porro et laborum toro des clara
-                  </p>
+                  <h4>Gabriela Garzón Cruz</h4>
+                  <span>Presidenta del Concejo Municipal</span>
+
                   <div class="social">
                     <a href=""><i class="bi bi-twitter"></i></a>
                     <a href=""><i class="bi bi-facebook"></i></a>
@@ -470,12 +407,9 @@
               <div class="member">
                 <img src="/img/team/team-2.jpg" class="img-fluid" alt="" />
                 <div class="member-content">
-                  <h4>William Anderson</h4>
-                  <span>Content</span>
-                  <p>
-                    Voluptas necessitatibus occaecati quia. Earum totam
-                    consequuntur qui porro et laborum toro des clara
-                  </p>
+                  <h4>Lola Terrazas Terrazas</h4>
+                  <span>Vice Presidenta del Concejo Municipal</span>
+
                   <div class="social">
                     <a href=""><i class="bi bi-twitter"></i></a>
                     <a href=""><i class="bi bi-facebook"></i></a>
@@ -490,12 +424,9 @@
               <div class="member">
                 <img src="/img/team/team-3.jpg" class="img-fluid" alt="" />
                 <div class="member-content">
-                  <h4>William Anderson</h4>
-                  <span>Content</span>
-                  <p>
-                    Voluptas necessitatibus occaecati quia. Earum totam
-                    consequuntur qui porro et laborum toro des clara
-                  </p>
+                  <h4>Luis Miguel Fernández Rea</h4>
+                  <span>Secretario del Concejo Municipal</span>
+
                   <div class="social">
                     <a href=""><i class="bi bi-twitter"></i></a>
                     <a href=""><i class="bi bi-facebook"></i></a>
@@ -510,12 +441,9 @@
               <div class="member">
                 <img src="/img/team/team-1.jpg" class="img-fluid" alt="" />
                 <div class="member-content">
-                  <h4>William Anderson</h4>
-                  <span>Content</span>
-                  <p>
-                    Voluptas necessitatibus occaecati quia. Earum totam
-                    consequuntur qui porro et laborum toro des clara
-                  </p>
+                  <h4>Gabriela Garzón Cruz</h4>
+                  <span>Presidenta del Concejo Municipal</span>
+
                   <div class="social">
                     <a href=""><i class="bi bi-twitter"></i></a>
                     <a href=""><i class="bi bi-facebook"></i></a>

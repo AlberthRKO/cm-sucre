@@ -160,7 +160,7 @@
             <div class="portfolio-wrap">
               <img src="/img/fotos/img2.jpg" class="img-fluid" alt="" />
               <div class="portfolio-info">
-                <h4>Titulo <b>Foto</b></h4>
+                <h4>Titulo Foto</h4>
                 <p>Detalle de la foto</p>
                 <div class="portfolio-links">
                   <a
@@ -185,7 +185,7 @@
             <div class="portfolio-wrap">
               <img src="/img/fotos/img3.jpeg" class="img-fluid" alt="" />
               <div class="portfolio-info">
-                <h4>Titulo <b>Foto</b></h4>
+                <h4>Titulo Foto</h4>
                 <p>Detalle de la foto</p>
                 <div class="portfolio-links">
                   <a
@@ -210,7 +210,7 @@
             <div class="portfolio-wrap">
               <img src="/img/fotos/img4.jpg" class="img-fluid" alt="" />
               <div class="portfolio-info">
-                <h4>Titulo <b>Foto</b></h4>
+                <h4>Titulo Foto</h4>
                 <p>Detalle de la foto</p>
                 <div class="portfolio-links">
                   <a
@@ -235,7 +235,7 @@
             <div class="portfolio-wrap">
               <img src="/img/fotos/img5.jpeg" class="img-fluid" alt="" />
               <div class="portfolio-info">
-                <h4>Titulo <b>Foto</b></h4>
+                <h4>Titulo Foto</h4>
                 <p>Detalle de la foto</p>
                 <div class="portfolio-links">
                   <a
@@ -260,7 +260,7 @@
             <div class="portfolio-wrap">
               <img src="/img/fotos/img6.jpg" class="img-fluid" alt="" />
               <div class="portfolio-info">
-                <h4>Titulo <b>Foto</b></h4>
+                <h4>Titulo Foto</h4>
                 <p>Detalle de la foto</p>
                 <div class="portfolio-links">
                   <a
@@ -285,7 +285,7 @@
             <div class="portfolio-wrap">
               <img src="/img/fotos/img10.jpg" class="img-fluid" alt="" />
               <div class="portfolio-info">
-                <h4>Titulo <b>Foto</b></h4>
+                <h4>Titulo Foto</h4>
                 <p>Detalle de la foto</p>
                 <div class="portfolio-links">
                   <a
@@ -310,7 +310,7 @@
             <div class="portfolio-wrap">
               <img src="/img/fotos/img7.jpeg" class="img-fluid" alt="" />
               <div class="portfolio-info">
-                <h4>Titulo <b>Foto</b></h4>
+                <h4>Titulo Foto</h4>
                 <p>Detalle de la foto</p>
                 <div class="portfolio-links">
                   <a
@@ -335,7 +335,7 @@
             <div class="portfolio-wrap">
               <img src="/img/fotos/img12.jpg" class="img-fluid" alt="" />
               <div class="portfolio-info">
-                <h4>Titulo <b>Foto</b></h4>
+                <h4>Titulo Foto</h4>
                 <p>Detalle de la foto</p>
                 <div class="portfolio-links">
                   <a
@@ -360,7 +360,7 @@
             <div class="portfolio-wrap">
               <img src="/img/fotos/img16.jpg" class="img-fluid" alt="" />
               <div class="portfolio-info">
-                <h4>Titulo <b>Foto</b></h4>
+                <h4>Titulo Foto</h4>
                 <p>Detalle de la foto</p>
                 <div class="portfolio-links">
                   <a
